@@ -2,7 +2,7 @@
 
 I'm Artyom, a self-motivated tech enthusiast and Golang developer.
 
-## Today I am doing backend development on a case from t-bank skillbridge
+## Today I am doing backend development on a case from T-bank - Skillbridge.
 
 💬 connect Telegram [@avallance](https://t.me/avallance)  
 💬 connect gmail avalance228@gmail.com
