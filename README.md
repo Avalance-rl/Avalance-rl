@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-I'm Artyom, a self-motivated tech enthusiast and Golang developer.
-
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
