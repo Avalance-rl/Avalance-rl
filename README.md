@@ -2,8 +2,6 @@
 
 I'm Artyom, a self-motivated tech enthusiast and Golang developer.
 
-💬 connect Telegram [@avallance](https://t.me/avallance)  
-💬 connect Gmail avalance228@gmail.com  
 
 ### 🛠 &nbsp;Languages and Tools :
 
